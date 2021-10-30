@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Webscience Co.
 
-You can use the [editor on GitHub](https://github.com/webscienceco/animated-doodle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+At Webscience Co., we focus on serving clients who require software to tackle problems in healthcare, education and poverty alleviation. We provide end-to-end software consulting - design, development, maintenance and training for new and existing software test architecture and processes. We can recommend tools and techniques that will improve the efficacy of your outfit and we can help customize these to your organization's needs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We provide a range of web design services including logos, website layout, and more! Get in touch to see how a responsive and user-centric design can change how your customers perceive your organization on the internet. We use our deep experience to provide meaningful context to the products we develop for our clients and ensure that they meet the very unique needs of social impact organizations. We undertake projects in Web, iOS and Android app development.
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/webscienceco/animated-doodle/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can reach us at:
